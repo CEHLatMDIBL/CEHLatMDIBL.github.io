@@ -12,5 +12,5 @@ navbar:
     - text: "Harmful algal blooms"
       href: about.html
     - text: "All about arsenic"
-      href: about.html
+      href: https://www.allaboutarsenic.org
 output: distill::distill_article

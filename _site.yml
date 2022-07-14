@@ -2,7 +2,7 @@ name: "CEHLatMDIBL.github.io"
 title: "Community Environmental Health Lab at MDIBL"
 description: |
   My Website
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"

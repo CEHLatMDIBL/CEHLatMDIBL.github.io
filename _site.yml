@@ -1,5 +1,5 @@
 name: "CEHLatMDIBL.github.io"
-title: "My Website"
+title: "Community Environmental Health Lab at MDIBL"
 description: |
   My Website
 output_dir: "_site"
@@ -8,5 +8,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "About"
+      href: about.html
+    - text: "Harmful algal blooms"
+      href: about.html
+    - text: "All about arsenic"
       href: about.html
 output: distill::distill_article

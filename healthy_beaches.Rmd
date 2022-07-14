@@ -1,0 +1,9 @@
+---
+title: "Healthy beaches"
+description: |
+  https://mdibl.org/healthy-and-safe-swimming-on-mdi/
+---
+https://mdibl.org/healthy-and-safe-swimming-on-mdi/
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

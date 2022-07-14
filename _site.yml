@@ -1,16 +1,16 @@
 name: "CEHLatMDIBL.github.io"
-title: "Community Environmental Health Lab at MDIBL"
+title: "Community Lab at MDIBL"
 description: |
   My Website
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-    - text: "Harmful algal blooms"
-      href: about.html
     - text: "All about arsenic"
       href: https://www.allaboutarsenic.org
+    - text: "Eelgrass monitoring"
+      href: https://anecdata.org/projects/view/1
+    - text: "Healthy beaches"     
+      href: https://anecdata.org/projects/view/37
+    - text: "Harmful algal blooms"
+      href: about.html
 output: distill::distill_article

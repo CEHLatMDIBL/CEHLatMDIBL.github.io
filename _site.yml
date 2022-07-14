@@ -5,6 +5,8 @@ description: |
 output_dir: "docs"
 navbar:
   right:
+    # - text: "About"
+    #   href: about.html
     - text: "All about arsenic"
       href: https://www.allaboutarsenic.org
     - text: "Eelgrass monitoring"

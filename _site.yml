@@ -5,14 +5,20 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    # - text: "About"
-    #   href: about.html
     - text: "All about arsenic"
       href: https://www.allaboutarsenic.org
-    - text: "Eelgrass monitoring"
-      href: https://anecdata.org/projects/view/1
     - text: "Healthy beaches"     
       href: https://anecdata.org/projects/view/37
     - text: "Harmful algal blooms"
-      href: about.html
+      menu:
+          - text: "Interact with data"
+            href: https://cehlatmdibl.shinyapps.io/mdibl_phyto_viz/
+          - text: "Download data"
+            href: https://cehlatmdibl.shinyapps.io/MDIBL_phyto_sub_download/
+    - text: "Environmental science"
+      menu:
+        - text: "Eelgrass monitoring"
+          href: https://storymaps.arcgis.com/stories/f6bdc297fd0a450db94d284ea98d08f8
+        # - text: "Sub_2"
+        #   href: https://anecdata.org/projects/view/1
 output: distill::distill_article

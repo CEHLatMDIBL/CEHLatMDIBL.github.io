@@ -1,19 +1,26 @@
 {
   "articles": [
     {
+      "path": "about_arsenic.html",
+      "title": "Arsenic levels in drinking water",
+      "author": [],
+      "contents": "\nAbout this project:\nMaine and New Hampshire have among the highest per capita reliance on\nprivate wells for drinking water in the United States (ME: 56% and NH:\n40%). Approximately 10% of Maine wells and 20% of New Hampshire wells\nhave elevated levels of arsenic, yet well water testing rates are low in\nboth states.\nIn August 2018, MDI Biological Laboratory received a 5-year NIH-NIGMS\nScience Education Partnership Award (SEPA) to create and pilot a\nnational model of STEM (Science, Technology, Engineering, and Math)\neducation. The project, “Data to Action: A Secondary School-Based\nCitizen Science Project to Address Arsenic Contamination of Well Water”\nwill engage students as citizen scientists and provide them with the\ntools and skills to make sense of data so that their results can lead to\nchange in their communities.\nMaximum Contaminant Levels: The numbers below are\nfederal standards set by the EPA for the maximum contaminant amount\nallowed in drinking water. These are set to protect public health. There\nare a few exceptions to the Maximum Contaminant Levels.\nBeryllium: 4 ug/L\nChromium: 100 ug/L\nManganese: 50 ug/L**\nIron: 300 ug/L**\nNickel: N/A\nCopper: 1300 ug/L*\nArsenic: 10 ug/L; New Hampshire lowered their MCL to 5 ug/L in\n2019.\nSelenium: 50 ug/L\nCadmium: 5 ug/L\nAntimony: 6 ug/L\nBarium: 2000 ug/L\nThallium: 2 ug/L\nLead: 15 ug/L\nUranium: 30 ug/L\n*Lead and Copper are regulated under an action level because they\nenter drinking water primarily through plumbing materials. Treatment at\nthe tap is recommended.\n**Iron and Manganese are “secondary standards” and not health\nthreatening. The EPA sets these standards because contaminants present\nin your water above these standards may cause your water to be\ndiscolored, taste odd, or have an odor. However, your water is still\nsafe to drink\n\n\n\n",
+      "last_modified": "2022-07-21T22:27:23-04:00"
+    },
+    {
       "path": "about.html",
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-07-21T21:29:03-04:00"
+      "last_modified": "2022-07-21T22:27:24-04:00"
     },
     {
       "path": "Environmental_science.html",
       "title": "Environmental science projects",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-07-21T21:29:04-04:00"
+      "last_modified": "2022-07-21T22:27:25-04:00"
     },
     {
       "path": "healthy_beaches.html",
@@ -21,14 +28,14 @@
       "description": "https://mdibl.org/healthy-and-safe-swimming-on-mdi/",
       "author": [],
       "contents": "\nhttps://mdibl.org/healthy-and-safe-swimming-on-mdi/\n\n\n\n",
-      "last_modified": "2022-07-21T21:29:05-04:00"
+      "last_modified": "2022-07-21T22:27:26-04:00"
     },
     {
       "path": "index.html",
       "title": "Community Environmental Health Lab at MDIBL",
       "author": [],
       "contents": "\n\n\n\n\n\nCommunity\nEnvironmental Health Lab at MDIBL\nDr. Jane E Disney Associate Professor of Environmental\nHealth\nCan engaging students in collecting well water samples for toxic\nmetal analysis and sharing their findings with their communities result\nin changed behaviors and improved public health? Is this school-based\napproach more impactful than other types of community interventions?\nWhat skills and supports do teachers and students need to realize this\noutcome? Does engagement with locally relevant issues provide incentive\nfor learning and improve learning outcomes? How do these experiences\nimpact self-efficacy and interest in Science, Technology, Engineering\nand Math (STEM) careers? These are central questions of the Science\nEducation Partnership Award (SEPA) project.\nAs an outgrowth of this project, the Community Lab is collaborating\nwith researchers across multiple disciplines to understand seasonality\nof arsenic and other metals in well water. Heavy metals can contaminate\nprivate wells through geogenic sources and surface water seepage and\nrun-off after storm events. People who are exposed to heavy metals via\ntheir well water risk acute and chronic toxicity, liver, kidney, and\nintestinal damage and cancer. Through repeated visits to well owners, we\nare comparing well water “toxic metal fingerprints” over time and\nspatial scales and are discovering that every well has its own story.\nHomeowners may need to know their “well story” to implement the most\nappropriate mitigation measures to prevent toxic metal exposure and\nrelated diseases.\nThe Community Lab is working with additional collaborators to develop\napproaches to identifying which well water samples collected by citizen\nscientists may have negative health impacts on the consumer. Are EPA\ndrinking water standards for individual metals sufficient for\ndetermining drinking water safety? Our findings suggest that metal\nmixtures may need to be taken into consideration. We plan health history\nfollow-ups with well owners to help inform future public health\nrecommendations and actions.\n\n\n\n",
-      "last_modified": "2022-07-21T21:29:06-04:00"
+      "last_modified": "2022-07-21T22:27:27-04:00"
     }
   ],
   "collections": []

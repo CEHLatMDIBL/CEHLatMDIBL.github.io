@@ -5,20 +5,38 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    - text: "All about arsenic"
-      href: https://www.allaboutarsenic.org
-    - text: "Healthy beaches"     
-      href: https://anecdata.org/projects/view/37
-    - text: "Harmful algal blooms"
+    - text: "About"
+      href: about.html
+    - text: "All About Arsenic"
+      menu:   
+          - text: "About"
+            href: about_arsenic.html
+          - text: "All About Arsenic central"
+            href: https://www.allaboutarsenic.org
+          - text: "Tap water arsenic level data"
+            href: https://anecdata.org/projects/view/299
+    - text: "Harmful Algal Blooms"
       menu:
           - text: "Interact with data"
             href: https://cehlatmdibl.shinyapps.io/mdibl_phyto_viz/
           - text: "Download data"
             href: https://cehlatmdibl.shinyapps.io/MDIBL_phyto_sub_download/
-    - text: "Environmental science"
+    - text: "Public Health Projects"
+      menu: 
+        - text: "Microplastics monitoring"
+          href: https://anecdata.org/projects/view/1053
+        - text: "Bar Harbor cruise ship water monitoring"
+          href: https://anecdata.org/projects/view/205
+        - text: "Maine Healthy Beaches"
+          href: https://anecdata.org/projects/view/37
+        - text: "Covid 19 home testing"
+          href: https://anecdata.org/projects/view/1031
+    - text: "Environmental Science"
       menu:
-        - text: "Eelgrass monitoring"
+        - text: "Eelgrass Monitoring"
           href: https://storymaps.arcgis.com/stories/f6bdc297fd0a450db94d284ea98d08f8
-        # - text: "Sub_2"
-        #   href: https://anecdata.org/projects/view/1
+        - text: "The Great Green Crab Hunt"
+          href: https://anecdata.org/projects/view/521
+
+
 output: distill::distill_article

@@ -8,31 +8,31 @@ navbar:
       href: index.html
     - text: "All About Arsenic"
       menu:   
-          - text: "About"
+          - text: "About The Project"
             href: about_arsenic.html
-          - text: "All About Arsenic central"
+          - text: "All About Arsenic Central"
             href: https://www.allaboutarsenic.org
-          - text: "All About Arsenic storymap"
+          - text: "All About Arsenic Atorymap"
             href: https://coagis.maps.arcgis.com/apps/MapSeries/index.html?appid=6943d268ee1f4831b5e37d310bc06cda
           - text: "Our tap water-arsenic data"
             href: https://anecdata.org/projects/view/299
     - text: "Harmful Algal Bloom monitoring"
       menu:
-          - text: "About the project"
+          - text: "About The Project"
             href: about_phyto.html
-          - text: "Interact with data"
+          - text: "Interact With Data"
             href: https://cehlatmdibl.shinyapps.io/mdibl_phyto_viz/
           - text: "Download HAB data"
             href: https://cehlatmdibl.shinyapps.io/MDIBL_phyto_sub_download/
     - text: "Public Health Projects"
       menu: 
-        - text: "Microplastics monitoring"
+        - text: "Microplastics Monitoring"
           href: https://anecdata.org/projects/view/1053
-        - text: "Bar Harbor cruise ship water monitoring"
+        - text: "Bar Harbor Cruise Ship Water Monitoring"
           href: https://anecdata.org/projects/view/205
         - text: "Maine Healthy Beaches"
           href: healthy_beaches.html
-        - text: "Covid 19 home testing"
+        - text: "Covid 19 Home Testing"
           href: covid_efficacy.html
     - text: "Environmental Science"
       menu:
@@ -40,7 +40,7 @@ navbar:
           href: https://storymaps.arcgis.com/stories/f6bdc297fd0a450db94d284ea98d08f8
         - text: "The Great Green Crab Hunt"
           href: about_green_crab.html
-        - text: "Landscapes of change storymap"
+        - text: "Landscapes Of Change Storymap"
           href: https://storymaps.arcgis.com/stories/dcb1b25509e64b628ce40c5ae7ed4675
 
 

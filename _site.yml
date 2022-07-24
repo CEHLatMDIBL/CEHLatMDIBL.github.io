@@ -12,7 +12,7 @@ navbar:
             href: about_arsenic.html
           - text: "All About Arsenic Central"
             href: https://www.allaboutarsenic.org
-          - text: "All About Arsenic Atorymap"
+          - text: "All About Arsenic Storymap"
             href: https://coagis.maps.arcgis.com/apps/MapSeries/index.html?appid=6943d268ee1f4831b5e37d310bc06cda
           - text: "Our tap water-arsenic data"
             href: https://anecdata.org/projects/view/299

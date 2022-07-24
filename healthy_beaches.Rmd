@@ -1,9 +1,31 @@
 ---
 title: "Healthy beaches"
 description: |
-  https://mdibl.org/healthy-and-safe-swimming-on-mdi/
+  
 ---
-https://mdibl.org/healthy-and-safe-swimming-on-mdi/
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+[Maine Healthy Beaches](https://www.maine.gov/dep/water/beaches/index.html) is “a statewide effort to monitor water quality and protect public health at Maine’s participating coastal saltwater beaches”. Each week, from Memorial Day to Labor Day, volunteers and staff from the Community Environmental Health Lab at MDIBL and Acadia National Park test many of the most popular swim spots on MDI.
+
+Each sample is collected using EPA-approved quality assured protocols. Samples on MDI are brought to the Community Lab at MDIBL to be analyzed for Enterococcous, a fecal indicator bacteria.
+
+Fecal indicator bacteria are associated with the fecal material from humans and other warm-blooded animals; MHB uses this as an indicator because there are far too many pathogens to test for individually. If Enterococcus is present, then other pathogens are likely present as well.
+
+People can become ill after swallowing or other contact with contaminated water; symptoms are typically gastrointestinal, respiratory, or skin related. According to MHB, moderate to heavy rainfall (1” or more in a 24-hour period) is often associated with an increased risk of bacterial contamination, so precautionary rainfall advisories are posted.
+
+Other pathogenic sources include:
+
+* Improperly disposed of diapers
+* Children not properly cleaned after using the bathroom
+* Swimmers with diarrhea
+* A vomiting or fecal accident in the water
+* Waste from wildlife, domestic animals, and pets
+* Malfunctioning subsurface wastewater disposal (septic) or sanitary collection (sewage treatment plant) systems
+* Boats discharging sewage into the water
+* Contaminated stormwater runoff
+* Before your next beach day, check for beach advisories or closures at participating beaches by visiting the [Current Beach Status webpage](https://www.maine.gov/dep/water/beaches/beach-status.html), or, when you get to the beach, look for the Maine Healthy Beaches sign – advisories and closures will be physically posted.
+
+The Community Enivoronmental Health Lab's related data is also available through our [Anecdata portal](https://anecdata.org/projects/view/37).

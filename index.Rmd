@@ -5,6 +5,7 @@ site: distill::distill_website
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+#https://ucsb-meds.github.io/customizing-websites-css/#1 Distill article tutorial
 ```
 
 ```{css}
@@ -19,7 +20,7 @@ knitr::include_graphics("images/mdibl_cove.jpg")
 
 ## Community Environmental Health Lab at MDIBL
 
-**Dr. Jane E Disney Associate Professor of Environmental Health**
+[**Dr. Jane E Disney Associate Professor of Environmental Health**](https://mdibl.org/faculty/jane-e-disney-ph-d/)
 
 Can engaging students in collecting well water samples for toxic metal analysis and sharing their findings with their communities result in changed behaviors and improved public health? Is this school-based approach more impactful than other types of community interventions? What skills and supports do teachers and students need to realize this outcome? Does engagement with locally relevant issues provide incentive for learning and improve learning outcomes? How do these experiences impact self-efficacy and interest in Science, Technology, Engineering and Math (STEM) careers? These are central questions of the Science Education Partnership Award (SEPA) project.
 

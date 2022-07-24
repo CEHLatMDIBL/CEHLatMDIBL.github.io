@@ -1,0 +1,18 @@
+---
+title: "COVID-19 testing efficacy"
+description: |
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The MDI Biological Laboratory (MDIBL) is launching a citizen science program aimed at understanding the effectiveness of COVID-19 home test kits in detecting the SARS CoV-2 virus. Using MDIBL’s citizen science data platform, Anecdata.org, participants over the age of 18 will be asked to fill out a brief anonymous survey, providing information on symptoms, masking, which kind of test kit was used, and the test result.
+
+Jane Disney, Ph.D., who leads the project said, “It will provide very practical information that will inform our understanding of community spread as SARS CoV-2 and its subvariants continue to infect people worldwide. This survey tool will help us address critical questions about the relationship between timing of exposure, whether a mask was worn, what type of mask was worn, symptoms, and results of different Covid-19 home test kits. The anonymous results are publicly available for download so that people can see what is happening in their communities.”
+
+The US government recently provided guidance that requires private insurance companies to cover the costs of up to eight FDA approved over the counter COVID-19 diagnostic tests per household. Therefore, administration of these tests is happening privately, and test results are largely unreported.  Disney added, “This leaves a great gap in knowledge about the transmission of the virus. MDIBL is pleased to assist in tracing infections in this way and working on behalf of the public good.”
+
+ 
+**If you are interested in taking part of this Citizen Science project that will provide valuable data to researchers, you can learn more about and participate in the project, [here](https://www.anecdata.org/projects/view/covid-19-home-testing.**

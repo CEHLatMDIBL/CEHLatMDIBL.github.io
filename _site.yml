@@ -1,25 +1,26 @@
 name: "CEHLatMDIBL.github.io"
 title: "Community Lab at MDIBL"
-description: |
-  My Website
+description: 
 output_dir: "docs"
 navbar:
   right:
     - text: "About"
-      href: about.html
+      href: index.html
     - text: "All About Arsenic"
       menu:   
           - text: "About"
             href: about_arsenic.html
           - text: "All About Arsenic central"
             href: https://www.allaboutarsenic.org
-          - text: "Tap water arsenic level data"
+          - text: "Our tap water-arsenic data"
             href: https://anecdata.org/projects/view/299
-    - text: "Harmful Algal Blooms"
+    - text: "Harmful Algal Bloom monitoring"
       menu:
+          - text: "About the project"
+            href: about_phyto.html
           - text: "Interact with data"
             href: https://cehlatmdibl.shinyapps.io/mdibl_phyto_viz/
-          - text: "Download data"
+          - text: "Download HAB data"
             href: https://cehlatmdibl.shinyapps.io/MDIBL_phyto_sub_download/
     - text: "Public Health Projects"
       menu: 
@@ -28,15 +29,17 @@ navbar:
         - text: "Bar Harbor cruise ship water monitoring"
           href: https://anecdata.org/projects/view/205
         - text: "Maine Healthy Beaches"
-          href: https://anecdata.org/projects/view/37
+          href: healthy_beaches.html
         - text: "Covid 19 home testing"
-          href: https://anecdata.org/projects/view/1031
+          href: covid_efficacy.html
     - text: "Environmental Science"
       menu:
         - text: "Eelgrass Monitoring"
           href: https://storymaps.arcgis.com/stories/f6bdc297fd0a450db94d284ea98d08f8
         - text: "The Great Green Crab Hunt"
-          href: https://anecdata.org/projects/view/521
+          href: about_green_crab.html
+        - text: "Landscapes of change storymap"
+          href: https://storymaps.arcgis.com/stories/dcb1b25509e64b628ce40c5ae7ed4675
 
 
 output: distill::distill_article

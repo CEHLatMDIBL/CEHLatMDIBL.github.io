@@ -14,15 +14,15 @@ navbar:
             href: https://www.allaboutarsenic.org
           - text: "All About Arsenic Storymap"
             href: https://coagis.maps.arcgis.com/apps/MapSeries/index.html?appid=6943d268ee1f4831b5e37d310bc06cda
-          - text: "Our tap water-arsenic data"
+          - text: "AAA Tap Water-Arsenic Data"
             href: https://anecdata.org/projects/view/299
-    - text: "Harmful Algal Bloom monitoring"
+    - text: "Harmful Algal Bloom Monitoring"
       menu:
           - text: "About The Project"
             href: about_phyto.html
           - text: "Interact With Data"
             href: https://cehlatmdibl.shinyapps.io/mdibl_phyto_viz/
-          - text: "Download HAB data"
+          - text: "Download HAB Data"
             href: https://cehlatmdibl.shinyapps.io/MDIBL_phyto_sub_download/
     - text: "Public Health Projects"
       menu: 
@@ -32,7 +32,7 @@ navbar:
           href: https://anecdata.org/projects/view/205
         - text: "Maine Healthy Beaches"
           href: healthy_beaches.html
-        - text: "Covid 19 Home Testing"
+        - text: "Covid-19 Home Testing"
           href: covid_efficacy.html
     - text: "Environmental Science"
       menu:

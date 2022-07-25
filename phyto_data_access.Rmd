@@ -12,5 +12,5 @@ htmltools::tags$iframe(src="https://cehlatmdibl.shinyapps.io/MDIBL_phyto_sub_dow
 ```
 
 **DATA AVAILABILITY**
-All data from this phytoplankton dataset with extensive metadata is available through the [Environmental Data Initiative]()
+All data from this phytoplankton dataset along with extensive metadata is available through the [Environmental Data Initiative]()
 

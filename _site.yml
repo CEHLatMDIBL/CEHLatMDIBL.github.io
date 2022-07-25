@@ -37,7 +37,7 @@ navbar:
     - text: "Environmental Science"
       menu:
         - text: "Eelgrass Monitoring"
-          href: https://storymaps.arcgis.com/stories/f6bdc297fd0a450db94d284ea98d08f8
+          href: eelgrass_storymap.html
         - text: "The Great Green Crab Hunt"
           href: about_green_crab.html
         - text: "Landscapes Of Change Storymap"

@@ -6,7 +6,7 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-#### Adjust the selected sites, date range, and data types to change the plots
+#### Choose site locations, change value ranges, and add text-filters to view smaller portions of the data 
 ```{r, layout="l-screen-inset"}
 htmltools::tags$iframe(src="https://cehlatmdibl.shinyapps.io/MDIBL_phyto_sub_download/", height = "1500px", width = "100%", `data-external` = "1")
 ```

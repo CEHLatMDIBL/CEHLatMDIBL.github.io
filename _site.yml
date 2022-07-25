@@ -39,7 +39,7 @@ navbar:
           href: healthy_beaches.html
         - text: "Covid-19 Home Testing"
           href: covid_efficacy.html
-    - text: "Environmental Science"
+    - text: "Conservation & Climate Change"
       menu:
         - text: "Eelgrass Monitoring"
           href: eelgrass_storymap.html

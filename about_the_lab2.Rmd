@@ -1,0 +1,66 @@
+---
+title: "The people behind the Community Environmental Health Lab "
+# description: |
+#   A showcase of distill websites and blogs. Add yours [here](https://github.com/jhelvy/distillery)!
+output:
+  distill::distill_article:
+    toc: true
+# base_url: https://distillery.rbind.io
+# preview: images/distillery.png
+params:
+  update_all: FALSE
+  check_url: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+    echo = FALSE,
+    message = FALSE,
+    warning = FALSE
+)
+
+```
+```{css}
+d-title {
+    display: none;
+  }
+```
+## The Members Of The Community Environmental Health Lab
+### Jane Disney, Ph.D. Associate Professor
+```{r,echo=FALSE, out.width='50%'}
+knitr::include_graphics("images/members/Jane_Disney.png")
+```
+
+### Hannah Lust
+
+```{r, echo=FALSE, out.width='50%'}
+# knitr::include_graphics("images/members/Carrie_LeDuc.png")
+```
+
+### Alexis Garretson
+
+```{r, echo=FALSE, out.width='50%'}
+knitr::include_graphics("images/members/Alexis_Garettson.png")
+```
+
+### Carrie LeDuc
+
+```{r, echo=FALSE, out.width='50%'}
+knitr::include_graphics("images/members/Carrie_LeDuc.png")
+```
+
+### Cait Bailey
+
+```{r, echo=FALSE, out.width='50%'}
+# knitr::include_graphics("images/members/Carrie_LeDuc.png")
+```
+
+### Nathan Dorn
+
+```{r, echo=FALSE, out.width='50%'}
+# knitr::include_graphics("images/members/Alexis_Garettson.png")
+```
+
+### Sarah Dunbar
+
+## Lab Alumni

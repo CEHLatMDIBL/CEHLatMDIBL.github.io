@@ -7,7 +7,6 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 #https://ucsb-meds.github.io/customizing-websites-css/#1 Distill article tutorial
 ```
-
 ```{css}
 d-title {
     display: none;

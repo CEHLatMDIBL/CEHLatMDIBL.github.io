@@ -1,0 +1,37 @@
+---
+title: "The Members Of The Community Environmental Health Lab "
+# description: |
+#   A showcase of distill websites and blogs. Add yours [here](https://github.com/jhelvy/distillery)!
+output:
+  distill::distill_article:
+    toc: true
+base_url: https://distillery.rbind.io
+preview: images/distillery.png
+params:
+  update_all: FALSE
+  check_url: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+    echo = FALSE,
+    message = FALSE,
+    warning = FALSE
+)
+# Load libraries and functions
+source(file.path("R", "functions.R"))
+```
+
+```{r build-content, include=FALSE}
+sites <- clean_sites(read_csv("members.csv"), params$check_url)
+update_screenshots(sites, params$update_all)
+rmd_chunks <- make_showcase_chunks(sites, image_width = 400)
+button_filters <- buttons_filter(sites)
+```
+
+Use the buttons to filter:
+
+```{r insert-showcase, child = c(button_filters, rmd_chunks)}
+```
+
+<script src = "js/filter-buttons.js"></script>

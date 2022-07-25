@@ -5,6 +5,11 @@ output_dir: "docs"
 navbar:
   right:
     - text: "About"
+      menu:
+          - text: "Meet The Lab Members"
+            href: about_the_lab2.html
+          - text: "About Anecdata"
+            href: https://anecdata.org/pages/about
       href: index.html
     - text: "All About Arsenic"
       menu:   
@@ -40,8 +45,6 @@ navbar:
           href: eelgrass_storymap.html
         - text: "The Great Green Crab Hunt"
           href: about_green_crab.html
-        - text: "Landscapes Of Change Storymap"
-          href: https://storymaps.arcgis.com/stories/dcb1b25509e64b628ce40c5ae7ed4675
 
 
 output: distill::distill_article

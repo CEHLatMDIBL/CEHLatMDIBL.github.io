@@ -21,7 +21,7 @@ navbar:
           - text: "About The Project"
             href: about_phyto.html
           - text: "Interact With Data"
-            href: https://cehlatmdibl.shinyapps.io/mdibl_phyto_viz/
+            href: phyto_viz.html
           - text: "Download HAB Data"
             href: https://cehlatmdibl.shinyapps.io/MDIBL_phyto_sub_download/
     - text: "Public Health Projects"

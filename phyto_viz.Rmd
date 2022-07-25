@@ -7,13 +7,16 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### About this project:
+### Adjust the Date range, sites, and variables to see different plots
 
-
-
-
-
-
+<iframe 
+src="https://cehlatmdibl.shinyapps.io/mdibl_phyto_viz/"
+style= 
+"padding-left:5px; 
+border:none;
+padding-right:50px;
+class:l-screen-inset shaded; 
+height:1000px;"></iframe>
 
 **DATA AVAILABILITY**
 All data from this phytoplankton dataset with extensive metadata is available through the [Environmental Data Initiative]()

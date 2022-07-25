@@ -1,13 +1,12 @@
 ---
 title: "Eelgrass Monitoring Storymap"
-description: |
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE,echo=FALSE }
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r, layout="l-screen",echo=FALSE, out.width='100%', out.extra='style="padding:0px"'}
+```{r, layout="l-screen",echo=FALSE, out.width='100%'}
 htmltools::tags$iframe(src = "https://storymaps.arcgis.com/stories/f6bdc297fd0a450db94d284ea98d08f8", height = "3000px", width = "100%", `data-external` = "1")
 ```
 

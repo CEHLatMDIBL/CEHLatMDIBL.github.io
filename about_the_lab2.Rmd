@@ -43,6 +43,12 @@ knitr::include_graphics("images/members/Jane_Disney.png")
 knitr::include_graphics("images/members/Alexis_Garettson.png")
 ```
 
+### Ashley Taylor
+
+```{r, echo=FALSE, out.width='50%'}
+knitr::include_graphics("images/members/Ashley.png")
+```
+
 ### Carrie LeDuc
 
 ```{r, echo=FALSE, out.width='50%'}
@@ -64,3 +70,6 @@ knitr::include_graphics("images/members/Carrie_LeDuc.png")
 ### Sarah Dunbar
 
 ## Lab Alumni
+
+### Anna Farrell
+

@@ -5,7 +5,11 @@ title: "Eelgrass Monitoring Storymap"
 ```{r setup, include=FALSE,echo=FALSE }
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
+```{css}
+d-title {
+    display: none;
+  }
+```
 ```{r, layout="l-screen",echo=FALSE, out.width='100%'}
 htmltools::tags$iframe(src = "https://storymaps.arcgis.com/stories/f6bdc297fd0a450db94d284ea98d08f8", height = "3000px", width = "100%", `data-external` = "1")
 ```

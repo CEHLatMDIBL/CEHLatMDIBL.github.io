@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r, layout="l-screen-inset"}
-htmltools::tags$iframe(src = "https://cehlatmdibl.shinyapps.io/mdibl_phyto_viz/", height = "1000%", width = "100%", `data-external` = "1")
+htmltools::tags$iframe(src = "https://cehlatmdibl.shinyapps.io/mdibl_phyto_viz/", height = "1000px", width = "100%", `data-external` = "1")
 ```
 
 **DATA AVAILABILITY**

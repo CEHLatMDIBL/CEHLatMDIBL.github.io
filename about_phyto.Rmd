@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-<iframe src="https://cehlatmdibl.shinyapps.io/mdibl_phyto_viz/"  frameborder="no" class="l-screen-inset shaded"></iframe>
+<iframe src="https://cehlatmdibl.shinyapps.io/mdibl_phyto_viz/"  frameborder="no" class="l-screen-inset shaded" height="1000px"></iframe>
 
 
 

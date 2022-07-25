@@ -23,7 +23,7 @@ navbar:
           - text: "Interact With Data"
             href: phyto_viz.html
           - text: "Download HAB Data"
-            href: https://cehlatmdibl.shinyapps.io/MDIBL_phyto_sub_download/
+            href: phyto_data_access.html
     - text: "Public Health Projects"
       menu: 
         - text: "Microplastics Monitoring"

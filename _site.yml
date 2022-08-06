@@ -8,6 +8,8 @@ navbar:
       menu:
           - text: "Meet The Lab Members"
             href: about_the_lab2.html
+          - text: "Publications"
+            href: publications.html
           - text: "About Anecdata"
             href: https://anecdata.org/pages/about
       href: index.html

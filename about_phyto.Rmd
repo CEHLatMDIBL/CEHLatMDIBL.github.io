@@ -1,5 +1,5 @@
 ---
-title: "Frenchmans Bay Harmful Algal Bloom Monitoring"
+title: "Frenchman Bay Harmful Algal Bloom Monitoring"
 description: |
 ---
 
@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 The Gulf of Maine is one of the fastest heating bodies of water on the planet. With its shallow depth and shape, making it especially susceptible to warming. It is important to monitor the changes in the marine ecosystems to understand how they are currently and may continue to respond to perturbations. This has implications for the marine ecology and fisheries of the region including potentially changes to the timing, type, and intensity of harmful algal blooms (or HABS for short).
 
-In Frenchmans Bay some species of the dinoflagellates *Alexandrium* are known to produce a highly potent neurotoxin called [saxitoxin](https://en.wikipedia.org/wiki/Saxitoxin). Shellfish filter feed on these microbes and accumulate the toxin and when people eat the toxin filled shellfish it can cause paralytic shellfish poisoning. The presence of any Alexandrium can necessitate fisheries closures because of the associated public health risk.
+In Frenchman Bay some species of the dinoflagellates *Alexandrium* are known to produce a highly potent neurotoxin called [saxitoxin](https://en.wikipedia.org/wiki/Saxitoxin). Shellfish filter feed on these microbes and accumulate the toxin and when people eat the toxin filled shellfish it can cause paralytic shellfish poisoning. The presence of any Alexandrium can necessitate fisheries closures because of the associated public health risk.
 
 Similarly some species of the diatom *Pseudo-nitzschia* can produce a different neurotoxin called [domoic acid](https://www.cdph.ca.gov/Programs/CEH/DRSEM/Pages/EMB/Shellfish/Domoic-Acid.aspx#:~:text=Domoic%20acid%20is%20a%20naturally,nitzschia%20are%20impossible%20to%20predict.), which is responsible for amnesic shellfish poisoning. When humans, birds, or various marine mammals consume affected shellfish it effects brain function and cau cause seizures and in some cases death. In pop-culture a 1961 HAB of *Pseudo-nitzschia* led seabirds to attach local residents of a shore community and was influential in the creating of Alfred Hitchcock's classic film [*The Birds*](https://en.wikipedia.org/wiki/The_Birds_(film))
 

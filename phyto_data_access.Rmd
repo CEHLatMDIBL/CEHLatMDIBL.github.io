@@ -1,5 +1,5 @@
 ---
-title: "Frenchmans Bay Harmful Algal Bloom Monitoring"
+title: "Frenchman Bay Harmful Algal Bloom Monitoring"
 description: |
 ---
 

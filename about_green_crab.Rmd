@@ -1,11 +1,11 @@
 ---
-title: "The Great Green Crab Hunt"
+title: "Green Crab Studies"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-This project is part of a multi-pronged effort by NH Sea Grant to come up with solutions to controlling the invasive European green crab, *Carcinas meanas*, which has been causing ecological and economic damage to northern New England for decades. With increasing ocean temperatures the region is seeing an explosion in the green crab population in recent years and as a result we have been working with regional partners on several avenues of mitigating the invasion. One solution is to create markets and a viable fishery/ removal program to supply a soft-shell crab industry similar to the soft-shell blue crab industry in the southern US. One method to help streamline and increase awareness and interest in the problem as well as finding hot-spots of large aggregations of crabs that are molting or about to molt, is through this citizen science monitoring program, The Great Green Crab Hunt.
+This project is one of many efforts in Maine to come up with solutions to controlling the invasive European green crab, *Carcinas meanas*, which has been causing ecological and economic damage to northern New England for decades. With increasing ocean temperatures the region is seeing an explosion in the green crab population in recent years and as a result we have been working with regional partners on several avenues of mitigating the invasion. Suggested solutions to the problem include creating markets and a viable fishery/ removal program to supply a soft-shell crab industry similar to the soft-shell blue crab industry in the southern US. One method to help streamline and increase awareness and interest in the problem as well as finding hot-spots of large aggregations of crabs that are molting or about to molt, is through this citizen science monitoring program, called Green Crab Studies.
 
-You can access the New Hampshire [invasive green crab dataset](https://anecdata.org/projects/view/521) and read a 2021 MDIBL blog post about a MDIBL volunteers work combing through [historical green crab data records](https://mdibl.org/this-is-why-volunteer-mike-hays/).
+You can access the Maine [invasive green crab dataset](https://www.anecdata.org/projects/view/34) and read a 2021 MDIBL blog post about a MDIBL volunteers work combing through [historical green crab data records](https://mdibl.org/this-is-why-volunteer-mike-hays/).

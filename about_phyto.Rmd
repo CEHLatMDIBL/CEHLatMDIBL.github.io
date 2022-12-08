@@ -13,7 +13,7 @@ The Gulf of Maine is one of the fastest heating bodies of water on the planet. W
 
 In Frenchman Bay some species of the dinoflagellates *Alexandrium* are known to produce a highly potent neurotoxin called [saxitoxin](https://en.wikipedia.org/wiki/Saxitoxin). Shellfish filter feed on these microbes and accumulate the toxin and when people eat the toxin filled shellfish it can cause paralytic shellfish poisoning. The presence of any Alexandrium can necessitate fisheries closures because of the associated public health risk.
 
-Similarly some species of the diatom *Pseudo-nitzschia* can produce a different neurotoxin called [domoic acid](https://www.cdph.ca.gov/Programs/CEH/DRSEM/Pages/EMB/Shellfish/Domoic-Acid.aspx#:~:text=Domoic%20acid%20is%20a%20naturally,nitzschia%20are%20impossible%20to%20predict.), which is responsible for amnesic shellfish poisoning. When humans, birds, or various marine mammals consume affected shellfish it effects brain function and cau cause seizures and in some cases death. In pop-culture a 1961 HAB of *Pseudo-nitzschia* led seabirds to attach local residents of a shore community and was influential in the creating of Alfred Hitchcock's classic film [*The Birds*](https://en.wikipedia.org/wiki/The_Birds_(film))
+Similarly some species of the diatom *Pseudo-nitzschia* can produce a different neurotoxin called [domoic acid](https://www.cdph.ca.gov/Programs/CEH/DRSEM/Pages/EMB/Shellfish/Domoic-Acid.aspx#:~:text=Domoic%20acid%20is%20a%20naturally,nitzschia%20are%20impossible%20to%20predict.), which is responsible for amnesic shellfish poisoning. When humans, birds, or various marine mammals consume affected shellfish it effects brain function and can cause seizures and in some cases death. In pop-culture a 1961 HAB of *Pseudo-nitzschia* led seabirds to attach local residents of a shore community and was influential in the creating of Alfred Hitchcock's classic film [*The Birds*](https://en.wikipedia.org/wiki/The_Birds_(film))
 
 The Community Environmental Health Lab has been monitoring the presence and abundance of HAB species and other phytoplankton for over two decades. Currently the data collected are included in a larger HAB monitoring program run through the Maine Department of Marine Resources [program](https://www.maine.gov/dmr/shellfish-sanitation-management/programs/biotoxininfo.html). The current HAB target species of concern include:
 
@@ -23,5 +23,5 @@ The Community Environmental Health Lab has been monitoring the presence and abun
 -   Gonyaulax
 -   Karenia
 -   Margalefidinium polykrikoides (formerly known as Cochlodinium)
--   Prorocentrumlima
+-   Prorocentrum lima
 -   Pseudo-nitzschia

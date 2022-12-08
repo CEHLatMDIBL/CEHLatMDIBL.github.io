@@ -20,13 +20,17 @@ knitr::opts_chunk$set(
 )
 
 ```
+
 ```{css}
 d-title {
     display: none;
   }
 ```
+
 ## The Members Of The Community Environmental Health Lab
+
 ### Jane Disney, Ph.D. Associate Professor
+
 ```{r,echo=FALSE, out.width='50%'}
 knitr::include_graphics("images/members/Jane_Disney.png")
 ```
@@ -37,39 +41,59 @@ knitr::include_graphics("images/members/Jane_Disney.png")
 # knitr::include_graphics("images/members/Carrie_LeDuc.png")
 ```
 
-### Alexis Garretson
+### Kat Taylor, Project Coordinator
+```{r,echo=FALSE, out.width='50%'}
+knitr::include_graphics("images/members/kattaylor.jpg")
+```
+
+### Alexis Garretson, Data Specialist
 
 ```{r, echo=FALSE, out.width='50%'}
 knitr::include_graphics("images/members/Alexis_Garettson.png")
 ```
 
-### Ashley Taylor
+### Ashley Taylor, GIS specialist
 
 ```{r, echo=FALSE, out.width='50%'}
 knitr::include_graphics("images/members/Ashley.png")
 ```
 
-### Carrie LeDuc
-
-```{r, echo=FALSE, out.width='50%'}
-knitr::include_graphics("images/members/Carrie_LeDuc.png")
-```
-
-### Cait Bailey
+### Cait Bailey, Systems Developer
 
 ```{r, echo=FALSE, out.width='50%'}
 # knitr::include_graphics("images/members/Carrie_LeDuc.png")
 ```
 
-### Nathan Dorn
+### Sarah Dunbar, Education Specialist
+
+```{r, echo=FALSE, out.width='50%'}
+knitr::include_graphics("images/members/Sarah Dunbar.jpg")
+```
+
+### Adam Feher, COA Independent Study Student
+
+```{r, echo=FALSE, out.width='50%'}
+knitr::include_graphics("images/members/Adam_Feher headshot.jpeg")
+```
+
+## Recent Lab Alumni
+
+### Michael Maniscalco, Environmental Data Initiative Fellow
+
+### Carrie LeDuc, Project Coordinator
+
+```{r, echo=FALSE, out.width='50%'}
+knitr::include_graphics("images/members/Carrie_LeDuc.png")
+```
+
+### Nathan Dorn, AmeriCorps Environmental Steward
 
 ```{r, echo=FALSE, out.width='50%'}
 # knitr::include_graphics("images/members/Alexis_Garettson.png")
 ```
 
-### Sarah Dunbar
+### Anna Farrell, Lab manager
 
-## Lab Alumni
+### Harper Fremont-Smith, Summer High School Research Fellow
 
-### Anna Farrell
-
+### Charlie Bourne, Summer High School Research Fellow

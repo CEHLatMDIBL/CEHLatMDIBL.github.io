@@ -1,0 +1,16 @@
+---
+title: "Frenchman Bay Partners"
+---
+
+```{r setup, include=FALSE,echo=FALSE }
+knitr::opts_chunk$set(echo = FALSE)
+```
+```{css}
+d-title {
+    display: none;
+  }
+```
+```{r, layout="l-screen",echo=FALSE, out.width='100%'}
+htmltools::tags$iframe(src = "https://frenchmanbaypartners.org/", height = "3000px", width = "100%", `data-external` = "1")
+```
+

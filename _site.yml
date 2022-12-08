@@ -47,6 +47,8 @@ navbar:
           href: eelgrass_storymap.html
         - text: "The Great Green Crab Hunt"
           href: about_green_crab.html
+        - text: "Frenchman Bay Partners"
+          href: Partners_of_frenchmans.html
 
 
 output: distill::distill_article
